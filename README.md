@@ -36,7 +36,7 @@
     </a>
 
     <a href="https://twitter.com/thelazydiarist" target="_blank">
-      https://img.shields.io/twitter/follow/thelazydiarist?style=social
+    <img src="https://img.shields.io/twitter/follow/thelazydiarist?style=social" />
     </a>
   </div>
   <br />
@@ -45,15 +45,6 @@
     alt="https://thumbs.gfycat.com/ChiefRemarkableBettong-size_restricted.gif"
     class="transparent"
   />
-
-  <div>
-    Icons made by
-    <a href="https://www.flaticon.com/authors/freepik" title="Freepik"
-      >Freepik</a
-    >
-    from
-    <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-  </div>
 </div>
 
 
