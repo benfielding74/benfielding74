@@ -26,7 +26,7 @@
     benfielding74
   </h1>
   <p class="copy">
-    Hi! I'm Ben and I'm learning to code. 
+    Hi!
   </p>
   <div>
      <img
