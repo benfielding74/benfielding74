@@ -23,10 +23,20 @@
 
 <div class="container">
   <h1 class="headings">
-    benfielding74
+    Hi I'm Ben
   </h1>
   <p class="copy">
-    Hi!
+   I'm a Devops Engineer working in the Civil Service.
+   Technologies I work with and am interested in are:
+    <ul>
+     <li>Gitlab CI/CD </li>
+     <li>AWS Cloud Services</li>
+     <li> IaC with Terraform</li>
+     <li> Docker</li>
+     <li> Python</li>
+     <li> Jenkins</li>
+     <li> Bash scripting</li>
+ </ul>
   </p>
   <div>
      <img
